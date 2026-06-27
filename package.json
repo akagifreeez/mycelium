@@ -1,0 +1,24 @@
+{
+  "name": "mycelium",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Watch an AI agent's reasoning grow as a living fungus — tool calls sprout, mistakes rot, the solution blooms.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.195",
+    "@types/node": "22.7.5",
+    "@types/react": "18.3.11",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.6.3"
+  }
+}
