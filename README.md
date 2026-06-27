@@ -2,6 +2,8 @@
 
 **Watch an AI agent think — as living, glowing fungus.**
 
+### ▶ Live: **[mycelium-dusky.vercel.app](https://mycelium-dusky.vercel.app)**
+
 An AI agent's reasoning and tool-use loop, rendered as a growing organism. Every tool call sprouts a filament, every abandoned plan **rots and withers**, and reaching the answer makes the colony **bloom and release spores**. Two agents race the same task side by side — a careful planner vs. a greedy doer.
 
 Built on the **[Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk/overview)**. The colonies aren't hand-animated — they grow from **real, recorded agent runs**.
