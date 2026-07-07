@@ -70,7 +70,7 @@ Next.js (App Router) · TypeScript · 2D Canvas · `@anthropic-ai/claude-agent-s
 - [ ] More tasks & a task picker.
 - [ ] Attach an external MCP server (e.g. the author's key-free [`hl-read`](https://github.com/akagifreeez/hl-read)) as a third colony.
 
-## Honesty notes (盛らない)
+## Honesty notes
 
 This is a focused, deliberately small visualization — not a full agent platform. The colonies render **real** captured Agent SDK runs, but the demo replays recorded traces rather than running a live agent in the browser (see roadmap). The glow compositing uses `ctx.filter`, which is best in Chromium/Firefox.
 
